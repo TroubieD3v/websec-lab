@@ -1,5 +1,5 @@
 # Development and CI tools on top of the pinned runtime set.
 -c requirements.txt
 -r requirements.in
-pytest>=8,<10
-ruff>=0.8
+pytest>=9.2.0,<10
+ruff>=0.17.3
